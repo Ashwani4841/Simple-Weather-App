@@ -9,7 +9,7 @@ Demo 📸
 Visit link-
 https://imaginative-sherbet-850261.netlify.app
 
-How to Use 🛠️
+How to Use 🛠️-
 Clone the repository:
 -git clone https://github.com/your-username/simple-weather-app.git
 bash
