@@ -7,7 +7,7 @@ Displays temperature, humidity, and weather conditions
 User-friendly interface
 Demo 📸
 Visit link-
-https://imaginative-sherbet-850261.netlify.app
+https://weatherapp-41.netlify.app
 
 How to Use 🛠️-
 Clone the repository:
