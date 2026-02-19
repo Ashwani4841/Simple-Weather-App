@@ -52,4 +52,4 @@ Future Improvements 🛠️
 Improve error handling for invalid cities
 Add unit tests
 Contributing 🤝
-Feel free to submit pull requests to improve the app or fix any bugs!
+Feel free to submit pull requests to improve the app or fix any bugs.
