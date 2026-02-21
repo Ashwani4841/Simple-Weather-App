@@ -6,7 +6,7 @@ Check current weather for any city
 Displays temperature, humidity, and weather conditions
 User-friendly interface
 Demo 📸
-Visit link:-
+Visit link:
 https://weatherapp-41.netlify.app
 
 How to Use 🛠️-
