@@ -13,7 +13,7 @@ How to Use 🛠️-
 Clone the repository:
 -git clone https://github.com/your-username/simple-weather-app.git
 bash
-Copy code
+Copy code-
 -git clone https://github.com/your-username/simple-weather-app.git
 Navigate to the project directory:
 -cd simple-weather-app
