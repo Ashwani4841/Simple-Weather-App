@@ -9,7 +9,7 @@ Demo 📸
 Visit link:
 https://weatherapp-41.netlify.app
 
-How to Use 🛠️-
+How to Use 🛠️--
 Clone the repository:
 -git clone https://github.com/your-username/simple-weather-app.git
 bash
